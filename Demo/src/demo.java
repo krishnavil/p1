@@ -8,5 +8,10 @@ public class demo {
 		System.out.println("Hello");
 
 	}
+	
+	public void methods()
 
+	{
+		System.out.println("Done by two");
+	}
 }
